@@ -11,6 +11,12 @@
       "Nombre": "LM-S",
       "Descripcion": "LM-S supermotard looks like the future of motorcycle shopping",
       "Imagen": "assets/img/dab-lm-s-custom-supermoto-1.png"
+    },
+    {
+      "ID": 3,
+      "Nombre": "Gold Wing Tour Automatic DCT",
+      "Descripcion": "This is a bike 43 years in the making. Rebuilt from the road up",
+      "Imagen": "assets/img/2018HondaGoldWing.jpg"
     }
   ]
 }

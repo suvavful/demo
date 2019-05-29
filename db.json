@@ -16,5 +16,25 @@
     },
     "Cilindrada": "500cc",
     "TamanoYPeso": "500Kg"
+  },
+  {
+    "ID": 1,
+    "Nombre": "LM-S",
+    "Descripcion": "DAB's ultra-configurable LM-S supermotard looks like the future of motorcycle shopping
+MOTORCYCLES
+",
+    "Imagen": "dab-lm-s-custom-supermoto-1.png",
+    "Motor":{
+      "Tipo": "V6",
+      "Marchas": "5",
+      "Transmision": "5",
+      "Arranque": "Electrico"
+    },
+    "Fabricante":{
+      "Nombre": "DAB",
+      "Pais": "Francia"
+    },
+    "Cilindrada": "500cc",
+    "TamanoYPeso": "500Kg"
   }
 ]}

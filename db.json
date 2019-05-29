@@ -1,4 +1,4 @@
-"catalogo": [
+{"catalogo": [
   {
     "ID": 1,
     "Nombre": "ABA",
@@ -15,6 +15,6 @@
       "Pais": "Japon"
     },
     "Cilindrada": "500cc",
-    "Tamano y Peso": "500Kg"
+    "TamanoYPeso": "500Kg"
   }
-]
+]}

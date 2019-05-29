@@ -4,12 +4,6 @@
     "Nombre": "LXR 125",
     "Descripcion": "The LXR takes centre stage as Lexmoto`s flagship of the range.",
     "Imagen": "assets/img/SY125-10.png",
-    "Motor":{
-      "Tipo": "V6",
-      "Marchas": "5",
-      "Transmision": "5",
-      "Arranque": "Electrico"
-    },
     "Fabricante":{
       "Nombre": "Lexmoto",
       "Pais": "Japon"

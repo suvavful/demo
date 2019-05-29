@@ -18,11 +18,10 @@
     "TamanoYPeso": "500Kg"
   },
   {
-    "ID": 1,
+    "ID": 2,
     "Nombre": "LM-S",
-    "Descripcion": "DAB's ultra-configurable LM-S supermotard looks like the future of motorcycle shopping
-MOTORCYCLES",
-    "Imagen": "dab-lm-s-custom-supermoto-1.png",
+    "Descripcion": "DAB's ultra-configurable LM-S supermotard looks like the future of motorcycle shopping",
+    "Imagen": "assets/img/dab-lm-s-custom-supermoto-1.png",
     "Motor":{
       "Tipo": "V6",
       "Marchas": "5",

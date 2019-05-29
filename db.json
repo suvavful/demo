@@ -5,6 +5,12 @@
       "Nombre": "LXR 125",
       "Descripcion": "The LXR takes centre stage as Lexmoto`s flagship of the range.",
       "Imagen": "assets/img/SY125-10.png"
+    },
+    {
+      "ID": 2,
+      "Nombre": "LM-S",
+      "Descripcion": "LM-S supermotard looks like the future of motorcycle shopping",
+      "Imagen": "assets/img/dab-lm-s-custom-supermoto-1.png"
     }
   ]
 }

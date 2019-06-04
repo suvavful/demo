@@ -4,19 +4,49 @@
       "ID": 1,
       "Nombre": "LXR 125",
       "Descripcion": "The LXR takes centre stage as Lexmoto`s flagship of the range.",
-      "Imagen": "assets/img/SY125-10.png"
+      "Imagen": "assets/img/SY125-10.png",
+      "Motor": {
+        "Tipo": "AAA",
+        "Marcha": "Automatico",
+        "Transmision": "Electrico",
+        "Arranque": "Electrico"
+      },
+      "Fabricante":{
+        "Nombre": "BMW",
+        "Pais": "Alemania"
+      }
     },
     {
       "ID": 2,
       "Nombre": "LM-S",
       "Descripcion": "LM-S supermotard looks like the future of motorcycle shopping",
-      "Imagen": "assets/img/dab-lm-s-custom-supermoto-1.png"
+      "Imagen": "assets/img/dab-lm-s-custom-supermoto-1.png",
+      "Motor": {
+        "Tipo": "AAA",
+        "Marcha": "Automatico",
+        "Transmision": "Electrico",
+        "Arranque": "Electrico"
+      },
+      "Fabricante":{
+        "Nombre": "BMW",
+        "Pais": "Alemania"
+      }
     },
     {
       "ID": 3,
       "Nombre": "Gold Wing Tour Automatic DCT",
       "Descripcion": "This is a bike 43 years in the making. Rebuilt from the road up",
-      "Imagen": "assets/img/2018HondaGoldWing.jpg"
+      "Imagen": "assets/img/2018HondaGoldWing.jpg",
+      "Motor": {
+        "Tipo": "AAA",
+        "Marcha": "Automatico",
+        "Transmision": "Electrico",
+        "Arranque": "Electrico"
+      },
+      "Fabricante":{
+        "Nombre": "BMW",
+        "Pais": "Alemania"
+      }
     }
   ]
 }
